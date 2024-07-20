@@ -1,0 +1,9 @@
+.button:hover{
+	-fx-background-color: linear-gradient(#CCFF33, #CCFFCC);;
+}
+*Button {
+    -fx-background-color: #CCFF33;
+    -fx-font-size: 10pt;
+    -fx-text-fill: #000033;
+    -fx-background-radius: 7;
+}
